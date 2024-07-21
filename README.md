@@ -17,6 +17,6 @@ Code Must Use Only ContextAPI  to perform all necessary functions.
 
 ###
 
- <p align="1eft">Deployed URL : https://mycart-harishcorp.netlify.app</p> 
+ <p align="1eft"><b>Deployed URL :</b> https://mycart-harishcorp.netlify.app</p> 
 
 ###
